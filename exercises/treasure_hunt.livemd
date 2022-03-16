@@ -40,8 +40,8 @@ Change them to:
 
 * **a** `"rubies"`
 * **b** `{:gold, "horde"}`
-* **c** `[{:copper, 2}, {:silver: 3}]`
-* **d** `%{gold_coins: 100}`
+* **c** `[{:copper, 2}, {:silver, 3}]`
+* **d** `%{gold_coins 100}`
 
 ```elixir
 
